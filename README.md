@@ -2,6 +2,7 @@
 mqtt.js node command line tool
 
 Source code taken and adapted from: https://www.emqx.com/en/blog/how-to-use-mqtt-in-nodejs
+
 Additional material to learn from: https://www.donskytech.com/mqtt-node-js/
 
 1. Create new project
