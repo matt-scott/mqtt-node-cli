@@ -12,7 +12,7 @@ npm init -y
 
 2. Install dependencies
 ```bash
-npm install mqtt commander --save
+npm install mqtt commander
 ```
 
 3. Add start script to package.json
